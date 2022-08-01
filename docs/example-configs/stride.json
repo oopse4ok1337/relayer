@@ -1,13 +1,13 @@
 {
-  "type": "cosmos",
+  "type": "stride",
   "value": {
     "key": "default",
-    "chain-id": "cosmoshub-4",
-    "rpc-addr": "http://cosmoshub.strange.love:26657",
-    "account-prefix": "cosmos",
+    "chain-id": "STRIDE-TESTNET-2",
+    "rpc-addr": "http://95.216.191.183:16657",
+    "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.01uatom",
+    "gas-prices": "0.01ustrd",
     "debug": true,
     "timeout": "20s",
     "output-format": "json",
